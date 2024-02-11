@@ -4,9 +4,9 @@ NOTE: YOU SHOULD NOT CHANGE THE TEST FILE *.test.js. IF YOU CHANGE IT, YOU WILL 
 
 **TODO: EDIT THIS README and ADD YOUR NAME IN THE FOLLOWING FILE:**
 
-**First name:**
+**Dennis:**
 
-**Last name:**
+**Connelly:**
 
 Open the file `get-string-length.js` and solve all of the TODOs specified in that file.
 
